@@ -14,6 +14,11 @@ I also work as web developer,I rarely develop softwares when it comes to do some
 - C, C++, C# (Nowdays just C)
 - BASIC
 
+## What games you made?
+See [here](https://rabios.itch.io) for more info.
+
+Also i'm prototyping a rhythm game,And will work on bullet hell game soon.
+
 ## What do you use to make games?
 
 - JavaScript
@@ -73,10 +78,15 @@ The games i make,Plus the list below:
 - C&C Generals
 - Katana ZERO
 
-## Whoa,Do you use PC for a long time?
+## Whoa,There is a lot of games,Do you use PC for a long time?
 Yes,From 16 hours to 2 days
 
 Then i fall asleep LOL :)
+
+## Are you still a student?
+Yes,In high school
+
+That's why i stop using my devices for a certain period of time (Cause of tests,Exams,And anything else related to these)
 
 ## Where are you active?
 
