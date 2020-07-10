@@ -94,4 +94,4 @@ That's why i stop using my devices for a certain period of time (Cause of tests,
 - [YouTube](https://www.youtube.com/channel/UCAyNQlH9PxhYpXHukRmM-dg)
 - [SoloLearn (Sometimes)](https://www.sololearn.com/Profile/9046029)
 - [itch.io](https://rabios.itch.io)
-- Discord
+- Discord (Raylib channel,Game developers league channel,And GameZanga channel)
