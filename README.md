@@ -11,7 +11,7 @@ I also work as web developer,I rarely develop softwares when it comes to do some
 - JavaScript
 - Lua (Also LuaJIT)
 - Python
-- C
+- C, C++, C#
 - BASIC
 
 ## What do you use to make games?
@@ -43,6 +43,6 @@ I also work as web developer,I rarely develop softwares when it comes to do some
 
 - [Facebook](https://www.facebook.com/rabia.alhaffar.9)
 - [YouTube](https://www.youtube.com/channel/UCAyNQlH9PxhYpXHukRmM-dg)
-- [Sololearn (Sometimes)](https://www.sololearn.com/Profile/9046029)
+- [SoloLearn (Sometimes)](https://www.sololearn.com/Profile/9046029)
 - [itch.io](https://rabios.itch.io)
 - Discord
