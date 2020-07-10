@@ -1,7 +1,7 @@
 # About me
 Hello everyone!,My name's Rabia Alhaffar,16 years old,From syria
 
-I have nicknames that are "steria773" (The most one i use) and "sterio"
+My nickname is "steria773"
 
 ## What do you work?
 Indie game developer,Loves to make fun when there is way to make it!
