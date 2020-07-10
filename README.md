@@ -2,7 +2,7 @@
 Hi,My name's Rabia Alhaffar,16 years old,From syria
 
 ## What do you work?
-A game developer at most times and loves to make fun when there is way to make it!
+Indie game developer,Loves to make fun when there is way to make it!
 
 I also work as web developer,I rarely develop softwares when it comes to do some stuff!
 
@@ -38,3 +38,11 @@ I also work as web developer,I rarely develop softwares when it comes to do some
     - [raylib](http://raylib.com)
 
 - [Unity 3D](https://unity.com)
+
+## Where are you active?
+
+- [Facebook](https://www.facebook.com/rabia.alhaffar.9)
+- [YouTube](https://www.youtube.com/channel/UCAyNQlH9PxhYpXHukRmM-dg)
+- [Sololearn (Sometimes)](https://www.sololearn.com/Profile/9046029)
+- [itch.io](https://rabios.itch.io)
+- Discord
