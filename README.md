@@ -13,7 +13,7 @@ I also work as web developer,I rarely develop softwares when it comes to do some
 - JavaScript
 - Lua (Also LuaJIT)
 - Python
-- C, C++, C# (Nowdays just C)
+- C
 - BASIC
 
 ## What games you made?
