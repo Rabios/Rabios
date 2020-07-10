@@ -96,10 +96,10 @@ That's why i stop using my devices for a certain period of time (Cause of tests,
 - [itch.io](https://rabios.itch.io)
 - Discord (Raylib channel,Game developers league channel,And GameZanga channel)
 
-## More to know?
+## More to know about me?
 - [How i started programming?]()
 - [First project i made]()
-- [First stuff i made with raylib]()
+- [First stuff i made with raylib](https://github.com/Rabios/Rabios/blob/master/first_raylib_stuff.md)
 - [Old projects i worked on and removed from GitHub]()
 - [List of projects i made]()
 - [List of games i made]()
