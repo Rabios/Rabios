@@ -1,7 +1,7 @@
 # About
 Hello everyone!
 
-My name's Rabia Alhaffar,16 years old,From syria,And muslim
+My name's Rabia Alhaffar,I'm 16 years old teenager from syria,And muslim
 
 My nickname is "steria773"
 
