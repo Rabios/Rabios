@@ -1,6 +1,8 @@
 # About me
 Hi,My name's Rabia Alhaffar,16 years old,From syria
 
+I have nicknames that are "steria773" (The most one i use) and "sterio"
+
 ## What do you work?
 Indie game developer,Loves to make fun when there is way to make it!
 
@@ -98,7 +100,7 @@ That's why i stop using my devices for a certain period of time (Cause of tests,
 
 ## More to know about me?
 - [How i started programming?]()
-- [First project i made]()
+- [First project i made](https://github.com/Rabios/Rabios/blob/master/my_first_project.md)
 - [First stuff i made with raylib](https://github.com/Rabios/Rabios/blob/master/first_raylib_stuff.md)
 - [Old projects i worked on and removed from GitHub]()
 - [List of projects i made]()
