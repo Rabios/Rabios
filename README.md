@@ -30,7 +30,6 @@ Also i'm prototyping a rhythm game that will release soon,And will work on bulle
     - [ct.js](https://comigo.itch.io/ct)
     - [Tululoo game maker](http://www.tululoo.com)
     - [GDevelop](https://gdevelop-app.com)
-    - BlitzBasic
     
 - Lua
     - [raylib](https://github.com/TSnake41/raylib-lua)
@@ -39,6 +38,7 @@ Also i'm prototyping a rhythm game that will release soon,And will work on bulle
 - BASIC
     - [Basic4GL](https://www.basic4gl.net)
     - DarkBasic
+    - BlitzBasic
 
 - Python
     - [Pygame](https://www.pygame.org)
