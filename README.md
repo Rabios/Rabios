@@ -104,4 +104,3 @@ That's why i stop using my devices for a certain period of time (Cause of tests,
 - [First stuff i made with raylib](https://github.com/Rabios/Rabios/blob/master/first_raylib_stuff.md)
 - [Old projects worked on and removed from GitHub](https://github.com/Rabios/Rabios/blob/master/my_old_stuff.md)
 - [List of projects i made](https://github.com/Rabios/Rabios/blob/master/my_projects.md)
-- [List of games i made](https://github.com/Rabios/Rabios/blob/master/my_games.md)
