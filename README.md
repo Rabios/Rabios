@@ -99,9 +99,9 @@ That's why i stop using my devices for a certain period of time (Cause of tests,
 - Discord (Raylib channel,Game developers league channel,And GameZanga channel)
 
 ## More to know about me?
-- [How i started programming?](https://github.com/Rabios/Rabios/blob/how_did_started.md)
+- [How i started programming?](https://github.com/Rabios/Rabios/blob/master/how_did_started.md)
 - [First project i made](https://github.com/Rabios/Rabios/blob/master/my_first_project.md)
 - [First stuff i made with raylib](https://github.com/Rabios/Rabios/blob/master/first_raylib_stuff.md)
-- [Old projects worked on and removed from GitHub](https://github.com/Rabios/Rabios/blob/my_old_stuff.md)
-- [List of projects i made](https://github.com/Rabios/Rabios/blob/my_projects.md)
-- [List of games i made](https://github.com/Rabios/Rabios/blob/my_games.md)
+- [Old projects worked on and removed from GitHub](https://github.com/Rabios/Rabios/blob/master/my_old_stuff.md)
+- [List of projects i made](https://github.com/Rabios/Rabios/blob/master/my_projects.md)
+- [List of games i made](https://github.com/Rabios/Rabios/blob/master/my_games.md)
