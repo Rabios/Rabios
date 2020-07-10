@@ -17,7 +17,7 @@ I also work as web developer,I rarely develop softwares when it comes to do some
 ## What games you made?
 See [here](https://rabios.itch.io) for more info.
 
-Also i'm prototyping a rhythm game,And will work on bullet hell game soon.
+Also i'm prototyping a rhythm game that will release soon,And will work on bullet hell game soon.
 
 ## What do you use to make games?
 
@@ -95,3 +95,11 @@ That's why i stop using my devices for a certain period of time (Cause of tests,
 - [SoloLearn (Sometimes)](https://www.sololearn.com/Profile/9046029)
 - [itch.io](https://rabios.itch.io)
 - Discord (Raylib channel,Game developers league channel,And GameZanga channel)
+
+## More to know?
+- [How i started programming?]()
+- [First project i made]()
+- [First stuff i made with raylib]()
+- [Old projects i worked on and removed from GitHub]()
+- [List of projects i made]()
+- [List of games i made]()
