@@ -15,7 +15,7 @@ Not lying,Here is some nice screenshots ;)
 ## Success and failure in the same time
 I did implemented features like grenade,Shooting,And even armors!
 
-In same time,I failed doing jump mechanics and also there was a problem i need someone help me and solve it,Is the camera orbiting the gun.
+In same time,I failed doing jump mechanics and also there was a problem i still need someone and help me and solve it,The camera orbits the gun.
 
 ## Source code
 Will release in this month very soon,So please wait for some time...
