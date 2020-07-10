@@ -11,7 +11,7 @@ I also work as web developer,I rarely develop softwares when it comes to do some
 - JavaScript
 - Lua (Also LuaJIT)
 - Python
-- C, C++, C#
+- C, C++, C# (Nowdays just C)
 - BASIC
 
 ## What do you use to make games?
