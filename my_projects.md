@@ -12,3 +12,4 @@
 10. [Lotus](https://github.com/Rabios/Lotus), Lua and MoonScript IDE written in Python 3 and Batch.
 11. [Pancake](https://github.com/Rabios/Pancake), HTML5 game framework and a successor of Cake game engine.
 12. [load.js](https://github.com/Rabios/load.js), Tiny JavaScript library to load JavaScript scripts/libraries.
+13. [raytaiko](https://github.com/Rabios/raytaiko), Simple Taiko No Tatsujin engine made with [Astie Teddy's LuaJIT binding of raylib](https://github.com/TSnake41/raylib-lua)
