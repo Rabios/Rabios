@@ -6,7 +6,7 @@
 4. Blueberry,Game framework written in Python,Uses turtle graphics.
 5. Cake game engine,HTML5 game engine.
 6. List of my codes during my journey.
-7. [Rolling Dice Game](https://github.com/Rabios/RollingDiceGame), Rolling 6 sided die console application written in more than 10 programming languages.
+7. Rolling Dice Game, Rolling 6 sided die console application written in more than 10 programming languages.
 8. [LuaCalc](https://github.com/Rabios/LuaCalc), Web calculator scripted with Lua instead of JavaScript via Fengari VM.
 9. [Crosskit](https://github.com/Rabios/Crosskit), A cross renderer works on all browsers.
 10. [Lotus](https://github.com/Rabios/Lotus), Lua and MoonScript IDE written in Python 3 and Batch.
