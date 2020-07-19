@@ -19,3 +19,6 @@ Cake was great and i lived a long time with it (2 years of development),It also 
 
 ## My Codes
 List of codes during my journey.
+
+## Rolling Dice Game
+Rolling 6 sided die console application written in more than 10 programming languages.
