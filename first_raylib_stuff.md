@@ -18,4 +18,4 @@ I did implemented features like grenade,Shooting,And even armors!
 In same time,I failed doing jump mechanics and also there was a problem i still need someone and help me and solve it,The camera orbits the gun.
 
 ## Source code
-Will release in this month very soon,So please wait for some time...
+Source code is [here](https://github.com/Rabios/Tyrius) and released!
