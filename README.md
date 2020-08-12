@@ -1,12 +1,12 @@
 # About
 
-[![Rabia's github stats](https://github-readme-stats.vercel.app/api?username=Rabios)](https://github.com/anuraghazra/github-readme-stats)
-
 Hello everyone!
 
 My name's Rabia Alhaffar,16 years old teenager from syria,And muslim
 
 My nickname's "steria773"
+
+[![Rabia's github stats](https://github-readme-stats.vercel.app/api?username=Rabios)](https://github.com/anuraghazra/github-readme-stats)
 
 ## What do you work?
 Indie game developer,Loves to make fun when there is way to make it!
