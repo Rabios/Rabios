@@ -1,4 +1,7 @@
 # About
+
+[![Rabia's github stats](https://github-readme-stats.vercel.app/api?username=Rabios)](https://github.com/anuraghazra/github-readme-stats)
+
 Hello everyone!
 
 My name's Rabia Alhaffar,16 years old teenager from syria,And muslim
