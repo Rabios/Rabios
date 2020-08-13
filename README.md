@@ -89,6 +89,7 @@ The games i make,Plus the list below:
 - Vectronom
 - C&C Generals
 - Katana ZERO
+- Bleed series (1 and 2)
 
 ## Whoa,There is a lot of games,Do you use PC for a long time?
 
@@ -118,3 +119,4 @@ That's why i stop using my devices for a certain period of time (Cause of tests,
 - [List of projects i made](https://github.com/Rabios/Rabios/blob/master/my_projects.md)
 - [My plans](https://github.com/Rabios/PLANS)
 - [My achievements](https://github.com/Rabios/ACHIEVEMENTS)
+- [Workshop (Where i can leak or add info about my next works that might come soon)](https://github.com/Rabios/WORKSHOP)
