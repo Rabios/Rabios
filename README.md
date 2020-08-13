@@ -2,13 +2,12 @@
 
 Hello everyone!
 
-My name's Rabia Alhaffar,16 years old teenager from syria,And muslim
-
-My nickname's "steria773"
+My name's Rabia Alhaffar and nicknamed "steria773" (No case sensitivity),16 years old teenager from syria,And muslim
 
 [![Rabia's github stats](https://github-readme-stats.vercel.app/api?username=Rabios)](https://github.com/anuraghazra/github-readme-stats)
 
 ## What do you work?
+
 Indie game developer,Loves to make fun when there is way to make it!
 
 I also work as web developer,I rarely develop softwares when it comes to do some stuff!
@@ -23,6 +22,7 @@ I also work as web developer,I rarely develop softwares when it comes to do some
 - BASIC
 
 ## What games you made?
+
 See [here](https://rabios.itch.io) for more info.
 
 Also i'm prototyping a rhythm game that will release soon,And will work on bullet hell game soon.
@@ -56,6 +56,7 @@ Also i'm prototyping a rhythm game that will release soon,And will work on bulle
     - [MonoGame](https://www.monogame.net)
     
 ## What are your favourite video games?
+
 The games i make,Plus the list below:
 
 - Rocket League
@@ -90,11 +91,13 @@ The games i make,Plus the list below:
 - Katana ZERO
 
 ## Whoa,There is a lot of games,Do you use PC for a long time?
-Yes,From 16 hours to 2 days
+
+Yeah,From 16 hours to 2 days
 
 Then i fall asleep LOL :)
 
 ## Are you still a student?
+
 Yes,In high school
 
 That's why i stop using my devices for a certain period of time (Cause of tests,Exams,And anything else related to these)
@@ -114,3 +117,4 @@ That's why i stop using my devices for a certain period of time (Cause of tests,
 - [Old projects worked on and removed from GitHub](https://github.com/Rabios/Rabios/blob/master/my_old_stuff.md)
 - [List of projects i made](https://github.com/Rabios/Rabios/blob/master/my_projects.md)
 - [My plans](https://github.com/Rabios/PLANS)
+- [My achievements](https://github.com/Rabios/ACHIEVEMENTS)
