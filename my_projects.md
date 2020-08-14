@@ -16,4 +16,4 @@
 14. [PyJoy](https://github.com/Rabios/PyJoy), A game programming library uses OpenGL,OpenAL,And GLFW written in Python (Still need updates)
 15. [LINES-PORTS](https://github.com/Rabios/LINES-PORTS), Linux,Web and Mobile ports of my game [LINES!!!](https://github.com/Rabios/LINES)
 16. [LWLGL](https://github.com/Rabios/LWLGL), A set of LuaJIT bindings for awesome C libraries to write games with LuaJIT fastly! 
-17. [raylib-luajit](https://github.com/Rabios/raylib-luajit), Modern and updated LuaJIT bindings for raylib written by me from zero
+17. [raylua](https://github.com/Rabios/raylua), Modern and updated LuaJIT bindings for raylib written by me from zero
