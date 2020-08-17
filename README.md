@@ -31,18 +31,16 @@ Also i'm prototyping a rhythm game that will release soon,And will work on bulle
 
 - JavaScript
     - [Pancake (Framework by me)](https://github.com/Rabios/Pancake)
-    - [ct.js](https://comigo.itch.io/ct)
     - [Tululoo game maker](http://www.tululoo.com)
     - [GDevelop](https://gdevelop-app.com)
     
 - Lua
-    - [raylib](https://github.com/TSnake41/raylib-lua)
+    - [raylib-lua](https://github.com/TSnake41/raylib-lua)
+    - [raylua (My own bindings)](https://github.com/Rabios/raylua)
     - [LÖVE](https://love2d.org)
 
 - BASIC
     - [Basic4GL](https://www.basic4gl.net)
-    - DarkBasic
-    - BlitzBasic
 
 - Python
     - [Pygame](https://www.pygame.org)
@@ -50,10 +48,6 @@ Also i'm prototyping a rhythm game that will release soon,And will work on bulle
 
 - C
     - [raylib](http://raylib.com)
-
-- C#
-    - [Unity 3D](https://unity.com)
-    - [MonoGame](https://www.monogame.net)
     
 ## What are your favourite video games?
 
