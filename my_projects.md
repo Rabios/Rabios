@@ -17,3 +17,4 @@
 15. [LINES-PORTS](https://github.com/Rabios/LINES-PORTS), Linux,Web and Mobile ports of my game [LINES!!!](https://github.com/Rabios/LINES)
 16. [LWLGL](https://github.com/Rabios/LWLGL), A set of LuaJIT bindings for awesome C libraries to write games with LuaJIT fastly! 
 17. [raylua](https://github.com/Rabios/raylua), Modern and updated LuaJIT bindings for raylib written by me from zero
+18. [awesome-raylib](https://github.com/Rabios/awesome-raylib), A curated list of awesome stuff for raylib.
