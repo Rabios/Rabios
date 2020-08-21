@@ -25,8 +25,6 @@ I also work as web developer,I rarely develop softwares when it comes to do some
 
 See [here](https://rabios.itch.io) for more info.
 
-Also i'm prototyping a rhythm game that will release soon,And will work on bullet hell game soon.
-
 ## What do you use to make games?
 
 - JavaScript
@@ -44,7 +42,6 @@ Also i'm prototyping a rhythm game that will release soon,And will work on bulle
 
 - Python
     - [Pygame](https://www.pygame.org)
-    - [Ren'Py](https://www.renpy.org)
 
 - C
     - [raylib](http://raylib.com)
@@ -87,13 +84,13 @@ The games i make,Plus the list below:
 
 ## Whoa,There is a lot of games,Do you use PC for a long time?
 
-Yeah,From 16 hours to 2 days
+Yeah,From 16 hours to 2 days!
 
 Then i fall asleep LOL :)
 
 ## Are you still a student?
 
-Yes,In high school
+Yes,In high school!
 
 That's why i stop using my devices for a certain period of time (Cause of tests,Exams,And anything else related to these)
 
@@ -113,4 +110,4 @@ That's why i stop using my devices for a certain period of time (Cause of tests,
 - [List of projects i made](https://github.com/Rabios/Rabios/blob/master/my_projects.md)
 - [My plans](https://github.com/Rabios/PLANS)
 - [My achievements](https://github.com/Rabios/ACHIEVEMENTS)
-- [Workshop (Where i can leak or add info about my next works that might come soon)](https://github.com/Rabios/WORKSHOP)
+- [Workshop (Where i leak info about my next works that might come soon)](https://github.com/Rabios/WORKSHOP)
