@@ -22,3 +22,5 @@ List of codes during my journey.
 
 ## Rolling Dice Game
 Rolling 6 sided die console application written in more than 10 programming languages.
+
+> NOTES: From now, You can find most of them in [my archive (Telvisionation)](https://github.com/steria773-archive)!
