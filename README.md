@@ -5,7 +5,7 @@ Hello everyone!
 My name's Rabia Alhaffar and nicknamed "steria773" (No case sensitivity),16 years old teenager from syria,And muslim
 
 [![Rabia's github stats](https://github-readme-stats.vercel.app/api?username=Rabios&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-[![Top langauges used by Rabia](https://github-readme-stats.vercel.app/api/top-langs/?username=Rabios&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top langauges used by Rabia](https://github-readme-stats.vercel.app/api/top-langs/?username=Rabios&show_icons=true&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 ## What do you work?
 
