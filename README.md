@@ -41,9 +41,6 @@ See [here](https://rabios.itch.io) for more info.
 - BASIC
     - [Basic4GL](https://www.basic4gl.net)
 
-- Python
-    - [Pygame](https://www.pygame.org)
-
 - C
     - [raylib](http://raylib.com)
     
