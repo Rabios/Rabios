@@ -5,7 +5,7 @@ Hello everyone!
 My name's Rabia Alhaffar and nicknamed "steria773" (No case sensitivity),16 years old teenager from syria,And muslim
 
 [![Rabia's github stats](https://github-readme-stats.vercel.app/api?username=Rabios&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-[![Top langauges used by Rabia](https://github-readme-stats.vercel.app/api/top-langs/?username=Rabios&show_icons=true&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top langauges used by Rabia](https://github-readme-stats.vercel.app/api/top-langs/?username=Rabios&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 ## What do you work?
 
@@ -24,7 +24,7 @@ I also work as web developer,I rarely develop softwares when it comes to do some
 
 ## What games you made?
 
-See [here](https://rabios.itch.io) for more info.
+See [here](https://rabios.github.io/games.html) for more info.
 
 ## What do you use to make games?
 
@@ -99,9 +99,10 @@ That's why i stop using my devices for a certain period of time (Cause of tests,
 - [YouTube](https://www.youtube.com/channel/UCAyNQlH9PxhYpXHukRmM-dg)
 - [SoloLearn (No longer do stuff)](https://www.sololearn.com/Profile/9046029)
 - [itch.io](https://rabios.itch.io)
-- Discord (Raylib channel,Game developers league channel,And GameZanga channel)
+- Discord (Raylib channel, Game developers league channel, GameZanga channel)
 
 ## More to know about me?
+
 - [How i started programming?](https://github.com/Rabios/Rabios/blob/master/how_did_started.md)
 - [First project i made](https://github.com/Rabios/Rabios/blob/master/my_first_project.md)
 - [First stuff i made with raylib](https://github.com/Rabios/Rabios/blob/master/first_raylib_stuff.md)
@@ -111,3 +112,4 @@ That's why i stop using my devices for a certain period of time (Cause of tests,
 - [My achievements](https://github.com/Rabios/ACHIEVEMENTS)
 - [Workshop (Where i leak info about my next works that might come soon)](https://github.com/Rabios/WORKSHOP)
 - [Telvisionation (The archive of my deleted old projects)](https://github.com/steria773-archive)
+- [My Website](https://rabios.github.io)
