@@ -2,16 +2,16 @@
 
 Hello everyone!
 
-My name's Rabia Alhaffar and nicknamed "steria773" (No case sensitivity),16 years old teenager from syria,And muslim
+My name's Rabia Alhaffar and nicknamed "steria773" at age of 16 from syria, And muslim!
 
 [![Rabia's github stats](https://github-readme-stats.vercel.app/api?username=Rabios&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 [![Top langauges used by Rabia](https://github-readme-stats.vercel.app/api/top-langs/?username=Rabios&show_icons=true&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 ## What do you work?
 
-Indie game developer,Loves to make fun when there is way to make it!
+Indie game developer, Loves to make fun when there is way to make it!
 
-I also work as web developer,I rarely develop softwares when it comes to do some stuff!
+I also work as web developer, I rarely develop softwares when it comes to do some stuff!
 
 ## What are you favourite programming languages?
 
@@ -30,13 +30,12 @@ See [here](https://rabios.github.io/games.html) for more info.
 
 - JavaScript
     - [Pancake (Framework by me)](https://github.com/Rabios/Pancake)
-    - [Tululoo game maker](http://www.tululoo.com)
-    - [GDevelop](https://gdevelop-app.com)
     
 - Lua
     - [raylib-lua](https://github.com/TSnake41/raylib-lua)
     - [raylua (My own bindings)](https://github.com/Rabios/raylua)
     - [LÖVE](https://love2d.org)
+    - [LÖVR](https://lovr.org)
 
 - BASIC
     - [Basic4GL](https://www.basic4gl.net)
