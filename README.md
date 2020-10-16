@@ -28,6 +28,8 @@ Currently i'm learning Dlang and doing arabic version of Dlang tour...
 
 See [here](https://rabios.github.io/games.html) for more info.
 
+They are not full games (Except for TARGET! and LINES!).
+
 ## What do you use to make games?
 
 - JavaScript
