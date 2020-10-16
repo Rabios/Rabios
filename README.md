@@ -22,6 +22,8 @@ I also work as web developer, I rarely develop softwares when it comes to do som
 - C#
 - BASIC
 
+Currently i'm learning Dlang and doing arabic version of Dlang tour...
+
 ## What games you made?
 
 See [here](https://rabios.github.io/games.html) for more info.
@@ -43,54 +45,12 @@ See [here](https://rabios.github.io/games.html) for more info.
 - C
     - [raylib](http://raylib.com)
     - [rayfork](https://github.com/SasLuca/rayfork)
-    
-## What are your favourite video games?
-
-The games i make,Plus the list below:
-
-- Rocket League
-- Call Of Duty Series (Except newest remasters and BO4)
-- Celeste
-- Super Meat Boy
-- Super Time Force Ultra
-- Shooty Skies
-- Blur
-- CS 1.6
-- Fable
-- Taptiles
-- Minecraft
-- Geometry Wars 3: Dimensions Evolved
-- DUET
-- Rolling Sky
-- Dust: An Elysian Tale
-- One Step From Eden
-- Sonic series
-- Bullet Hell Monday
-- Runner series
-- GTASA
-- Alto's Adventure
-- Braid
-- Tetris (Tetris Ultimate,And Tetris Effect,Plus EA Tetris that was on Android)
-- Shadowverse (Was playing before 2 years)
-- Towerfall
-- Donut County
-- Talent Not Included
-- Vectronom
-- C&C Generals
-- Katana ZERO
-- Bleed series (1 and 2)
-
-## Whoa,There is a lot of games,Do you use PC for a long time?
-
-Yeah,From 16 hours to 2 days!
-
-Then i fall asleep LOL :)
 
 ## Are you still a student?
 
 Yes,In high school!
 
-That's why i stop using my devices for a certain period of time (Cause of tests,Exams,And anything else related to these)
+That's why i stop using my devices for a certain period of time (Cause of tests, Exams, And anything else related to these)
 
 ## Where are you active?
 
