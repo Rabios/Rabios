@@ -66,5 +66,4 @@ That's why i stop using my devices for a certain period of time (Cause of tests,
 - [How i started programming?](https://github.com/Rabios/Rabios/blob/master/how_did_started.md)
 - [First project i made](https://github.com/Rabios/Rabios/blob/master/my_first_project.md)
 - [First stuff i made with raylib](https://github.com/Rabios/Rabios/blob/master/first_raylib_stuff.md)
-- [Telvisionation (The archive of my deleted old projects)](https://github.com/steria773-archive)
 - [My Website](https://rabios.github.io)
