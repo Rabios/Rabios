@@ -2,7 +2,7 @@
 
 Hello everyone!
 
-My name's Rabia Alhaffar and nicknamed "steria773" at age of 16 from syria, And muslim!
+My name's Rabia Alhaffar and nicknamed "steria773" at age of 16 from Syria, And muslim!
 
 [![Rabia's github stats](https://github-readme-stats.vercel.app/api?username=Rabios&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 [![Top langauges used by Rabia](https://github-readme-stats.vercel.app/api/top-langs/?username=Rabios&show_icons=true&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
@@ -12,16 +12,15 @@ My name's Rabia Alhaffar and nicknamed "steria773" at age of 16 from syria, And 
 
 Indie game developer, Loves to make fun when there is way to make it!
 
-I also work as web developer, I rarely develop softwares when it comes to do some stuff!
+I also work as web developer, I often develop softwares when it comes to do some stuff!
 
 ## What are you favourite programming languages?
 
+- C
 - JavaScript
 - Lua (Also LuaJIT)
-- Python
-- C
+- Ruby
 - C#
-- BASIC
 
 ## What games you made?
 
@@ -39,9 +38,6 @@ They are not full games (Except for TARGET! and LINES!).
     - [raylua (My own bindings)](https://github.com/Rabios/raylua)
     - [LÖVE](https://love2d.org)
     - [LÖVR](https://lovr.org)
-
-- BASIC
-    - [Basic4GL](https://www.basic4gl.net)
 
 - C
     - [raylib](http://raylib.com)
