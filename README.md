@@ -57,7 +57,7 @@ That's why i stop using my devices for a certain period of time (Cause of tests,
 - [YouTube](https://www.youtube.com/channel/UCAyNQlH9PxhYpXHukRmM-dg)
 - [SoloLearn (No longer do stuff)](https://www.sololearn.com/Profile/9046029)
 - [itch.io](https://rabios.itch.io)
-- Discord (Raylib channel, Game developers league channel, GameZanga channel)
+- Discord (raylib server, Game developers league server, GameZanga server, Together C and C++ server)
 
 ## More to know about me?
 
