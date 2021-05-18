@@ -2,11 +2,9 @@
 
 Hello everyone!
 
-My name's Rabia Alhaffar and nicknamed "steria773" at age of 16 from Syria, And Muslim!
-
 ![](https://komarev.com/ghpvc/?username=Rabios&color=blueviolet)
 
-![Metrics](https://github.com/Rabios/Rabios/blob/master/github-metrics.svg)
+My name's Rabia Alhaffar and nicknamed "steria773" at age of 16 from Syria, And Muslim!
 
 ## What do you work?
 
@@ -62,3 +60,5 @@ That's why i stop using my devices for a certain period of time (Cause of tests,
 ## More to know about me?
 
 - [My Website](https://rabios.github.io)
+
+![Metrics](https://github.com/Rabios/Rabios/blob/master/github-metrics.svg)
