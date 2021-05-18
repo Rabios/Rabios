@@ -6,6 +6,8 @@ My name's Rabia Alhaffar and nicknamed "steria773" at age of 16 from Syria, And 
 
 ![](https://komarev.com/ghpvc/?username=Rabios&color=blueviolet)
 
+![Metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
+
 [![Rabia's github stats](https://github-readme-stats.vercel.app/api?username=Rabios&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 [![Top langauges used by Rabia](https://github-readme-stats.vercel.app/api/top-langs/?username=Rabios&show_icons=true&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
