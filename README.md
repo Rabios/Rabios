@@ -6,6 +6,8 @@ My name's Rabia Alhaffar and nicknamed "steria773" at age of 16 from Syria, And 
 
 ![](https://komarev.com/ghpvc/?username=Rabios&color=blueviolet)
 
+<!-- idk if i should remove GitHub Metrics -->
+
 ![Metrics](https://metrics.lecoq.io/Rabios?template=classic&repositories=4&repositories.forks=true&isocalendar=1&languages=1&introduction=1&people=1&gists=1&followup=1&stars=1&lines=1&activity=1&achievements=1&notable=1&stackoverflow=1&isocalendar.duration=full-year&languages.limit=8&languages.colors=github&languages.details=bytes-size%2C%20percentage&languages.threshold=0%25&introduction.title=true&stars.limit=4&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&followup.sections=repositories&activity.limit=4&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=true&achievements.threshold=X&achievements.secrets=true&achievements.limit=4&notable.repositories=true&stackoverflow.user=10896648&stackoverflow.sections=answers-top%2C%20questions-recent&stackoverflow.limit=4&stackoverflow.lines=10&stackoverflow.lines.snippet=10&config.timezone=Asia%2FDamascus&config.order=base.header%2C%20base.repositories)
 
 ## What do you work?
