@@ -6,8 +6,6 @@ My name's Rabia Alhaffar and nicknamed "steria773" at age of 16 from Syria, And 
 
 ![](https://komarev.com/ghpvc/?username=Rabios&color=blueviolet)
 
-<!-- idk if i should remove GitHub Metrics -->
-
 ![Metrics](https://github.com/Rabios/Rabios/blob/master/github-metrics.svg)
 
 ## What do you work?
