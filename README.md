@@ -22,15 +22,17 @@ I also work as web developer, I often develop softwares when it comes to do some
 - JavaScript
 - Lua (Also LuaJIT)
 - Ruby
-- C#
+- Nelua
+- Haxe
 
 ## What games you made?
 
 See [here](https://rabios.github.io/games.html) for more info.
 
-They are not full games (Except for TARGET! and LINES!).
-
 ## What do you use to make games?
+
+- Ruby
+    - [DragonRuby GTK (Mostly Used)](https://dragonruby.org)
 
 - JavaScript
     - [Pancake (Framework by me)](https://github.com/Rabios/Pancake)
@@ -55,13 +57,10 @@ That's why i stop using my devices for a certain period of time (Cause of tests,
 
 - [Facebook](https://www.facebook.com/rabia.alhaffar.9)
 - [YouTube](https://www.youtube.com/channel/UCAyNQlH9PxhYpXHukRmM-dg)
-- [SoloLearn (No longer do stuff)](https://www.sololearn.com/Profile/9046029)
-- [itch.io](https://rabios.itch.io)
+- [SoloLearn (No longer active)](https://www.sololearn.com/Profile/9046029)
+- [itch.io (Where i post my commercial stuff)](https://rabios.itch.io)
 - Discord (raylib server, Game developers league server, GameZanga server, Together C and C++ server)
 
 ## More to know about me?
 
-- [How i started programming?](https://github.com/Rabios/Rabios/blob/master/how_did_started.md)
-- [First project i made](https://github.com/Rabios/Rabios/blob/master/my_first_project.md)
-- [First stuff i made with raylib](https://github.com/Rabios/Rabios/blob/master/first_raylib_stuff.md)
 - [My Website](https://rabios.github.io)
