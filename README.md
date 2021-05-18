@@ -6,7 +6,7 @@ My name's Rabia Alhaffar and nicknamed "steria773" at age of 16 from Syria, And 
 
 ![](https://komarev.com/ghpvc/?username=Rabios&color=blueviolet)
 
-![Metrics](https://metrics.lecoq.io/Rabios)
+![Metrics](https://metrics.lecoq.io/Rabios?template=classic&repositories=9999&repositories.forks=true&lines=1&isocalendar=1&languages=1&stars=1&gists=1&followup=1&activity=1&projects=1&achievements=1&notable=1&stackoverflow=1&posts=1&isocalendar.duration=full-year&languages.limit=8&languages.colors=github&languages.details=bytes-size%2C%20percentage&languages.threshold=0%25&stars.limit=4&followup.sections=repositories&projects.limit=4&projects.descriptions=true&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=X&achievements.secrets=true&achievements.limit=0&notable.repositories=false&stackoverflow.user=0&stackoverflow.sections=answers-top%2C%20questions-recent&stackoverflow.limit=4&stackoverflow.lines=4&stackoverflow.lines.snippet=2&posts.source=dev.to&posts.descriptions=false&posts.covers=false&posts.limit=4&posts.user=.user.login&config.timezone=Asia%2FDamascus&config.order=base.header%2C%20base.repositories)
 
 [![Rabia's github stats](https://github-readme-stats.vercel.app/api?username=Rabios&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 [![Top langauges used by Rabia](https://github-readme-stats.vercel.app/api/top-langs/?username=Rabios&show_icons=true&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
