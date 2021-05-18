@@ -2,7 +2,7 @@
 
 Hello everyone!
 
-My name's Rabia Alhaffar and nicknamed "steria773" at age of 16 from Syria, And muslim!
+My name's Rabia Alhaffar and nicknamed "steria773" at age of 16 from Syria, And Muslim!
 
 ![](https://komarev.com/ghpvc/?username=Rabios&color=blueviolet)
 
