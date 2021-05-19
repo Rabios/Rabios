@@ -1,6 +1,6 @@
-![](https://komarev.com/ghpvc/?username=Rabios&color=blueviolet)
-
 # Hello, World!
+
+![](https://komarev.com/ghpvc/?username=Rabios&color=blueviolet)
 
 Hello everyone!
 
@@ -60,5 +60,7 @@ That's why i stop using my devices for a certain period of time (Cause of tests,
 ## More to know about me?
 
 - [My Website](https://rabios.github.io)
+
+## Metrics
 
 ![Metrics](https://github.com/Rabios/Rabios/blob/master/github-metrics.svg)
