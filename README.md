@@ -12,7 +12,7 @@ My name's Rabia Alhaffar and pronounced in Arabic as "ربيع الحفار" whi
 - Lua
 - Ruby
 
-## Languages and Frameworks
+## Game Programming Skills
 
 - Ruby
     - [DragonRuby GTK](https://dragonruby.org)
