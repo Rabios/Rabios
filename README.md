@@ -4,7 +4,7 @@
 
 Hello everyone!
 
-My name's Rabia Alhaffar and pronounced in Arabic as "ربيع الحفار" while my nickname is "steria773", I am Muslim from Syria at age of 16.
+My name's Rabia Alhaffar and pronounced in Arabic as "ربيع الحفار" while my nickname is "steria773", I am Muslim from Syria at age of 17.
 
 ## Favourite Languages
 
