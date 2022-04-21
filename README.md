@@ -14,7 +14,7 @@ My name's Rabia Alhaffar and pronounced in Arabic as "ربيع الحفار" whi
 
 ## Game Development
 
-I make games/stuff even with following tools:
+I make games/stuff with following tools:
 
 - Ruby
     - [DragonRuby GTK](https://dragonruby.org)
