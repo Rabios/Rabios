@@ -6,28 +6,24 @@ Hello everyone!
 
 My name's Rabia Alhaffar and pronounced in Arabic as "ربيع الحفار" while my nickname is "steria773", I am Muslim from Syria at age of 17.
 
-## Favourite Languages
+## Langauges
 
 - C
 - Lua
 - Ruby
 
-## Game Programming Skills
+## Game Development
+
+I make games/stuff even with following tools:
 
 - Ruby
     - [DragonRuby GTK](https://dragonruby.org)
-    
-- Lua
-    - [raylib-lua](https://github.com/TSnake41/raylib-lua)
-    - [raylua](https://github.com/Rabios/raylua)
-    - [LÖVE](https://love2d.org)
-    - [LÖVR](https://lovr.org)
 
 - C
     - [raylib](http://raylib.com)
     - [rayfork](https://github.com/SasLuca/rayfork)
 
-- JavaScript
+- JavaScript (CanvasRenderingContext2D and WebGL)
 
 ## Social
 
