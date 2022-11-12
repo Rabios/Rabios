@@ -14,7 +14,7 @@ I mostly make stuff with system programming languages such as C (and mostly [Nel
 
 ## Stuff
 
-Aside the stuff I make with Nelua, I have been known for creating [awesome-raylib](https://github.com/Rabios/awesome-raylib) and some other cool projects like [ice_libs](https://github.com/Rabios/ice_libs) and [DragonBlocks](https://github.com/Rabios/dragonblocks)
+Aside the stuff I make with Nelua, I have been known for creating [awesome-raylib](https://github.com/Rabios/awesome-raylib) and some other cool projects like [ice_libs](https://github.com/Rabios/ice_libs) and [DragonBlocks](https://github.com/Rabios/dragonblocks) along with some extensions (and bindings) for the game development libraries/frameworks I was working with.
 
 I also made tons of stuff with [Haxe](https://haxe.io) that's why there is a [collective](https://github.com/Orange-hx) for the externs I write.
 
