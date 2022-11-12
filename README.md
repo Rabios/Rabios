@@ -12,6 +12,12 @@ I got into programming at the age of 12 (started with C++) through Sololearn (La
 
 I mostly make stuff with system programming languages such as C (and mostly [Nelua](https://nelua.io) at the meantime), But also like to fiddle with scripting languages like Lua and Ruby just for fun.
 
+## Stuff
+
+Aside the stuff I make with Nelua, I have been known for creating [awesome-raylib](https://github.com/Rabios/awesome-raylib) and some other cool projects like [ice_libs](https://github.com/Rabios/ice_libs) and [DragonBlocks](https://github.com/Rabios/dragonblocks)
+
+I also made tons of stuff with [Haxe](https://haxe.io) that's why there is a [collective](https://github.com/Orange-hx) for the externs I write.
+
 ## Game Development
 
 In the middle of 2019, I started making games with the well-known C game development library [raylib](https://www.raylib.com) and also contributed to the library by the bindings and libraries/tools done on my own till the near end of 2021 when switched to [DragonRuby GTK](https://dragonruby.org) and started to make a plenty of good games that you can see on [my itch.io account](https://rabios.itch.io)
